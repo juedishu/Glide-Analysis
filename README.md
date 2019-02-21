@@ -1,11 +1,11 @@
 # Glide分析
 发展到现在Android的图片加载框架越来越成熟从一开始的UIL到后来的Glide、Picasso、fresco等。相比较而言Glide的功能更加强大，但是相应的方法数也是最多的。当然也得结合项目的需求还选择相应的框架。Glide比较吸引人的主要还是与Activity生命周期进行绑定、加载gif图片、可以配置相应的网络请求框架。看完本文你也许会知道以下几个问题:
 
-1.glide如何加载图片
-2.glide如何加载gif
-3.glide如何根据Activity的生命周期加载照片
-4.glide如何解决listView图片错乱问题
-5.glide的缓存策略
+    1.glide如何加载图片
+    2.glide如何加载gif
+    3.glide如何根据Activity的生命周期加载照片
+    4.glide如何解决listView图片错乱问题
+    5.glide的缓存策略
 
 ## 一、简单用法
 
